@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/santosh/listview/list_view/BuildConfig.java
+ com.santosh.listview.list_view.BuildConfig
